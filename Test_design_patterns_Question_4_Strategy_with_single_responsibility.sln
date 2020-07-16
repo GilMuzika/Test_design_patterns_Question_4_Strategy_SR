@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_design_patterns_Question_4_Strategy_with_single_responsibility", "Test_design_patterns_Question_4_Strategy_SR\Test_design_patterns_Question_4_Strategy_SR.csproj", "{35621A40-637E-40CD-8607-66EFD481238A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35621A40-637E-40CD-8607-66EFD481238A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35621A40-637E-40CD-8607-66EFD481238A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35621A40-637E-40CD-8607-66EFD481238A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35621A40-637E-40CD-8607-66EFD481238A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB1016C-F437-4260-8404-8E34066E6A22}
+	EndGlobalSection
+EndGlobal
